@@ -1,0 +1,38 @@
+500 500
+obj/tetrahedron.obj
+screen.png
+0
+
+500 500
+obj/cube.obj
+screen.png
+0
+
+500 500
+obj/sphere.obj
+screen.png
+0
+
+500 500
+obj/man.obj
+screen.png
+0
+
+500 500
+obj/man.obj
+screen.png
+1
+texture/text.bmp
+
+500 500
+obj/boat.obj
+screen.png
+1
+texture/text.bmp
+
+500 500
+obj/mycube.obj
+screen.png
+1
+texture/cube_text.bmp
+

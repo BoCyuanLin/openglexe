@@ -1,0 +1,18 @@
+﻿  Obj_file_loader.cpp
+C:\Users\User\Desktop\NCTU_HW\exercises\Obj_file_loader\Obj_file_loader\objloader.h(127,19): warning C4018: '<': signed/unsigned 不相符
+C:\Users\User\Desktop\NCTU_HW\exercises\Obj_file_loader\Obj_file_loader\objloader.h(128,23): warning C4018: '<': signed/unsigned 不相符
+C:\Users\User\Desktop\NCTU_HW\exercises\Obj_file_loader\Obj_file_loader\objloader.h(144,19): warning C4018: '<': signed/unsigned 不相符
+C:\Users\User\Desktop\NCTU_HW\exercises\Obj_file_loader\Obj_file_loader\objloader.h(257,39): warning C4018: '<': signed/unsigned 不相符
+C:\Users\User\Desktop\NCTU_HW\exercises\Obj_file_loader\Obj_file_loader\objloader.h(312,39): warning C4018: '<': signed/unsigned 不相符
+C:\Users\User\Desktop\NCTU_HW\exercises\Obj_file_loader\Obj_file_loader\objloader.h(345,39): warning C4018: '<': signed/unsigned 不相符
+C:\Users\User\Desktop\NCTU_HW\exercises\Obj_file_loader\Obj_file_loader\objloader.h(378,23): warning C4018: '<': signed/unsigned 不相符
+C:\Users\User\Desktop\NCTU_HW\exercises\Obj_file_loader\Obj_file_loader\objloader.h(389,23): warning C4018: '<': signed/unsigned 不相符
+C:\Users\User\Desktop\NCTU_HW\exercises\Obj_file_loader\Obj_file_loader\objloader.h(390,27): warning C4018: '<': signed/unsigned 不相符
+C:\Users\User\Desktop\NCTU_HW\exercises\Obj_file_loader\Obj_file_loader\objloader.h(398,23): warning C4018: '<': signed/unsigned 不相符
+C:\Users\User\Desktop\NCTU_HW\exercises\Obj_file_loader\Obj_file_loader\objloader.h(399,27): warning C4018: '<': signed/unsigned 不相符
+C:\Users\User\Desktop\NCTU_HW\exercises\Obj_file_loader\Obj_file_loader\objloader.h(423,27): warning C4018: '<': signed/unsigned 不相符
+C:\Users\User\Desktop\NCTU_HW\exercises\Obj_file_loader\Obj_file_loader\objloader.h(518,27): warning C4018: '<': signed/unsigned 不相符
+C:\Users\User\Desktop\NCTU_HW\exercises\Obj_file_loader\Obj_file_loader\objloader.h(509,21): warning C4101: 'j': 未參考的區域變數
+C:\Users\User\Desktop\NCTU_HW\exercises\Obj_file_loader\Obj_file_loader\objloader.h(577,27): warning C4018: '<': signed/unsigned 不相符
+C:\Users\User\Desktop\NCTU_HW\exercises\Obj_file_loader\Obj_file_loader\objloader.h(553,21): warning C4101: 'j': 未參考的區域變數
+  Obj_file_loader.vcxproj -> C:\Users\User\Desktop\NCTU_HW\exercises\Obj_file_loader\Debug\Obj_file_loader.exe

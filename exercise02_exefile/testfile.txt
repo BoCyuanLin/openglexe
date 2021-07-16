@@ -1,0 +1,5 @@
+The numerical simulations for forecast of the epidemic COVID-19 models in US, Brazil, South Korea, India, Russia and Italy
+
+The main purpose of this paper is to present the numerical simulations for forecast of the epidemic COVID-19 models in US, Brazil, South Korea, India, Russia and Italy.
+By using the SQIARD and SIARD  models of COVID-19 with quarantine and asymptomatic infected, we respectively apply the infection data and adjust the related parameters in numerical simulations to generate the forecast and eﬀect of prediction of the epidemic situation for each country. 
+At the same time, we also use the US infection data to compare SQIARD with SIARD and show the effect of its prediction.
